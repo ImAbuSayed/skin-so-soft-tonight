@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-so-soft-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Skin So Soft Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-so-soft-tonight/) |
+| **Get License** | [Official Music Licensing for Skin So Soft Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-so-soft-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you pull me close
+> Under the glow of the amber light
+> Shadows dance but I need you most
+> With your skin so soft tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
