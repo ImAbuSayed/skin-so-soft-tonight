@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/skin-so-soft-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Skin So Soft Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-so-soft-tonight/) |
+| **Get License** | [License this song: Skin So Soft Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/skin-so-soft-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `054e2b22ab331b037e410ed67a21f3fa438d39cf94f9eb838a1a151781ebb70e` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
